@@ -80,3 +80,4 @@ Model Accuracy:
 **Nikhil Singh**
 
 GitHub: https://github.com/NikhilSingh7355
+App link:https://loan-prediction-system-kjh5caye8pv49ohhex8usx.streamlit.app/
